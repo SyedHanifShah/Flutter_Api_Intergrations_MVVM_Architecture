@@ -1,6 +1,6 @@
-# mvvm_pattren
+# Flutter Api Integrations with MVVM Architecture
 
-A new Flutter project.
+A Flutter mvvm architecture api integraions with sqlite database and user registrations and authentications.
 
 ## Getting Started
 
