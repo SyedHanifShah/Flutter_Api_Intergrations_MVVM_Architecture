@@ -1,4 +1,4 @@
-# Flutter Api Integrations with MVVM Architecture
+# Flutter Api Integrations with SQlite database in  MVVM Architecture
 
 A Flutter mvvm architecture api integraions with sqlite database and user registrations and authentications.
 
